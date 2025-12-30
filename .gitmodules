@@ -1,0 +1,6 @@
+[submodule "luohuo-cloud"]
+	path = luohuo-cloud
+	url = https://gitee.com/HuLaSpark/luohuo-cloud.git
+[submodule "luohuo-util"]
+	path = luohuo-util
+	url = https://gitee.com/HuLaSpark/luohuo-util.git
